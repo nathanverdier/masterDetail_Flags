@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+    <country iso="afg">
+        <name>Afghanistan</name>
+        <alt>Islamic Emirate of Afghanistan</alt>
+        <capital>Kabul</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="ago">
+        <name>Angola</name>
+        <alt>Republic of Angola</alt>
+        <capital>Luanda</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="alb">
+        <name>Albania</name>
+        <alt>Republic of Albania</alt>
+        <capital>Tirana</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="and">
+        <name>Andorra</name>
+        <alt>Principality of Andorra</alt>
+        <capital>Andorar la Vella</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="are">
+        <pre>The</pre>
+        <name>United Arab Emirates</name>
+        <capital>Abu Dhabi</capital>
+        <region>Asia</region>
+        <other>Emirates</other>
+    </country>
+    <country iso="arg">
+        <name>Argentina</name>
+        <alt>Argentine Republic</alt>
+        <capital>Buenos Aires</capital>
+        <region>South America</region>
+    </country>
+    <country iso="arm">
+        <name>Armenia</name>
+        <alt>Republic of Armenia</alt>
+        <capital>Yerevan</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="atg">
+        <name>Antigua and Barbuda</name>
+        <capital>St. John's</capital>
+        <region>North America</region>
+    </country>
+    <country iso="aus">
+        <name>Australia</name>
+        <alt>Commonwealth of Australia</alt>
+        <capital>Canberra</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="aut">
+        <name>Austria</name>
+        <alt>Republic of Austria</alt>
+        <capital>Vienna</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="aze">
+        <name>Azerbaijan</name>
+        <alt>Republic of Azerbaijan</alt>
+        <capital>Baku</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="bdi">
+        <name>Burundi</name>
+        <alt>Republic of Burundi</alt>
+        <capital>Gitega</capital>
+        <capital>Bujumbura</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="bel">
+        <name>Belgium</name>
+        <alt>Kingdom of Belgium</alt>
+        <capital>Brussels</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="ben">
+        <name>Benin</name>
+        <alt>Republic of Benin</alt>
+        <capital>Porto-Novo</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="bfa">
+        <name>Burkina Faso</name>
+        <capital>Ouagadougou</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="bgd">
+        <name>Bangladesh</name>
+        <alt>People's Republic of Bangladesh</alt>
+        <capital>Dhaka</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="bgr">
+        <name>Bulgaria</name>
+        <alt>Republic of Bulgaria</alt>
+        <capital>Sofia</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="bhr">
+        <name>Bahrain</name>
+        <alt>Kingdom of Bahrain</alt>
+        <capital>Manama</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="bhs">
+        <pre>The</pre>
+        <name>Bahamas</name>
+        <alt>Commonwealth of The Bahamas</alt>
+        <capital>Nassau</capital>
+        <region>North America</region>
+    </country>
+    <country iso="bih">
+        <name>Bosnia and Herzegovina</name>
+        <capital>Sarajevo</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="blr">
+        <name>Belarus</name>
+        <alt>Republic of Belarus</alt>
+        <capital>Minsk</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="blz">
+        <name>Belize</name>
+        <capital>Belmopan</capital>
+        <region>North America</region>
+    </country>
+    <country iso="bol">
+        <name>Bolivia</name>
+        <alt>Plurinational State of Bolivia</alt>
+        <capital>Sucre</capital>
+        <region>South America</region>
+    </country>
+    <country iso="bra">
+        <name>Brazil</name>
+        <alt>Federative Republic of Brazil</alt>
+        <capital>Brasilia</capital>
+        <region>South America</region>
+    </country>
+    <country iso="brb">
+        <name>Barbados</name>
+        <capital>Bridgetown</capital>
+        <region>North America</region>
+    </country>
+    <country iso="brn">
+        <name>Brunei</name>
+        <alt>Brunei Darussalam</alt>
+        <capital>Bandar Seri Begawan</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="btn">
+        <name>Bhutan</name>
+        <alt>Kingdom of Bhutan</alt>
+        <capital>Thimphu</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="bwa">
+        <name>Botswana</name>
+        <alt>Republic of Botswana</alt>
+        <capital>Gaborone</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="caf">
+        <pre>The</pre>
+        <name>Central African Republic</name>
+        <capital>Bangui</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="can">
+        <name>Canada</name>
+        <capital>Ottawa</capital>
+        <region>North America</region>
+    </country>
+    <country iso="che">
+        <name>Switzerland</name>
+        <alt>Swiss Confederation</alt>
+        <capital>Bern</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="chl">
+        <name>Chile</name>
+        <alt>Republic of Chile</alt>
+        <capital>Santiago</capital>
+        <region>South America</region>
+    </country>
+    <country iso="chn">
+        <name>China</name>
+        <alt>People's Republic of China</alt>
+        <capital>Beijing</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="civ">
+        <name>Ivory Coast</name>
+        <alt>Republic of Côte d'Ivoire</alt>
+        <capital>Yamoussoukro</capital>
+        <capital>Abidjan</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="cmr">
+        <name>Cameroon</name>
+        <alt>Republic of Cameroon</alt>
+        <capital>Yaoundé</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="cod">
+        <name>Democratic Republic of the Congo</name>
+        <capital>Kinshasa</capital>
+        <region>Africa</region>
+        <other>Congo-Kinshasa</other>
+        <other>Zaire</other>
+    </country>
+    <country iso="cog">
+        <name>Republic of the Congo</name>
+        <capital>Brazzaville</capital>
+        <region>Africa</region>
+        <other>Congo Republic</other>
+        <other>Congo</other>
+        <other>Congo-Brazzaville</other>
+    </country>
+    <country iso="col">
+        <name>Colombia</name>
+        <alt>Republic of Colombia</alt>
+        <capital>Bogotá</capital>
+        <region>South America</region>
+    </country>
+    <country iso="com">
+        <name>Comoros</name>
+        <alt>Union of the Comoros</alt>
+        <capital>Moroni</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="cpv">
+        <name>Cape Verde</name>
+        <alt>Republic of Cabo Verde</alt>
+        <capital>Prala</capital>
+        <region>Africa</region>
+        <other>Cabo Verde</other>
+    </country>
+    <country iso="cri">
+        <name>Costa Rica</name>
+        <alt>Republic of Costa Rica</alt>
+        <capital>San José</capital>
+        <region>North America</region>
+    </country>
+    <country iso="cub">
+        <name>Cuba</name>
+        <alt>Republic of Cuba</alt>
+        <capital>Havana</capital>
+        <region>North America</region>
+    </country>
+    <country iso="cyp">
+        <name>Cyprus</name>
+        <alt>Republic of Cyprus</alt>
+        <capital>Nicosia</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="cze">
+        <name>Czechia</name>
+        <alt>Czech Republic</alt>
+        <capital>Prague</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="deu">
+        <name>Germany</name>
+        <alt>Federal Republic of Germany</alt>
+        <capital>Berlin</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="dji">
+        <name>Djibouti</name>
+        <alt>Republic of Djibouti</alt>
+        <capital>Djibouti</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="dma">
+        <name>Dominica</name>
+        <alt>Commonwealth of Dominica</alt>
+        <capital>Roseau</capital>
+        <region>North America</region>
+    </country>
+    <country iso="dnk">
+        <name>Denmark</name>
+        <alt>Kingdom of Denmark</alt>
+        <capital>Copenhagen</capital>
+        <region>Europe</region>
+        <other>Danish Realm</other>
+    </country>
+    <country iso="dom">
+        <name>Dominican Republic</name>
+        <capital>Santo Domingo</capital>
+        <region>North America</region>
+    </country>
+    <country iso="dza">
+        <name>Algeria</name>
+        <alt>People's Democratic Republic of Algeria</alt>
+        <capital>Algiers</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="ecu">
+        <name>Ecuador</name>
+        <alt>Republic of Ecuador</alt>
+        <capital>Quito</capital>
+        <region>South America</region>
+    </country>
+    <country iso="egy">
+        <name>Egypt</name>
+        <alt>Arab Republic of Egypt</alt>
+        <capital>Cairo</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="eri">
+        <name>Eritrea</name>
+        <alt>State of Eritrea</alt>
+        <capital>Asmara</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="esp">
+        <name>Spain</name>
+        <alt>Kingdom of Spain</alt>
+        <capital>Madrid</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="est">
+        <name>Estonia</name>
+        <alt>Republic of Estonia</alt>
+        <capital>Tallinn</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="eth">
+        <name>Ethiopia</name>
+        <alt>Federal Democratic Republic of Ethiopia</alt>
+        <capital>Addis Ababa</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="fin">
+        <name>Finland</name>
+        <alt>Republic of Finland</alt>
+        <capital>Helsinki</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="fji">
+        <name>Fiji</name>
+        <alt>Republic of Fiji</alt>
+        <capital>Suva</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="fra">
+        <name>France</name>
+        <alt>French Republic</alt>
+        <capital>Paris</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="fsm">
+        <pre>The</pre>
+        <name>Federated States of Micronesia</name>
+        <capital>Palikir</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="gab">
+        <name>Gabon</name>
+        <alt>Gabonese Republic</alt>
+        <capital>Libreville</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="gbr">
+        <pre>The</pre>
+        <name>United Kingdom</name>
+        <alt>United Kingdom of Great Britain and Northern Ireland</alt>
+        <capital>London</capital>
+        <region>Europe</region>
+        <other>Britain</other>
+    </country>
+    <country iso="geo">
+        <name>Georgia</name>
+        <capital>Tbilisi</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="gha">
+        <name>Ghana</name>
+        <alt>Republic of Ghana</alt>
+        <capital>Accra</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="gin">
+        <name>Guinea</name>
+        <alt>Republic of Guinea</alt>
+        <capital>Conakry</capital>
+        <region>Africa</region>
+        <other>Guinea-Conakry</other>
+    </country>
+    <country iso="gmb">
+        <pre>The</pre>
+        <name>Gambia</name>
+        <alt>Republic of The Gambia</alt>
+        <capital>Banjul</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="gnb">
+        <name>Guinea-Bissau</name>
+        <alt>Republic of Guinea-Bissau</alt>
+        <capital>Bissau</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="gnq">
+        <name>Equatorial Guinea</name>
+        <alt>Republic of Equatorial Guinea</alt>
+        <capital>Malabo</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="grc">
+        <name>Greece</name>
+        <alt>Hellenic Republic</alt>
+        <capital>Athens</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="grd">
+        <name>Grenada</name>
+        <capital>St. George's</capital>
+        <region>North America</region>
+    </country>
+    <country iso="gtm">
+        <name>Guatemala</name>
+        <alt>Republic of Guatemala</alt>
+        <capital>Guatemala City</capital>
+        <region>North America</region>
+    </country>
+    <country iso="guy">
+        <name>Guyana</name>
+        <alt>Co-operative Republic of Guyana</alt>
+        <capital>Georgetown</capital>
+        <region>South America</region>
+    </country>
+    <country iso="hnd">
+        <name>Honduras</name>
+        <alt>Republic of Honduras</alt>
+        <capital>Tegucigalpa</capital>
+        <region>North America</region>
+    </country>
+    <country iso="hrv">
+        <name>Croatia</name>
+        <alt>Republic of Croatia</alt>
+        <capital>Zagreb</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="hti">
+        <name>Haiti</name>
+        <alt>Republic of Haiti</alt>
+        <capital>Port-au-Prince</capital>
+        <region>North America</region>
+    </country>
+    <country iso="hun">
+        <name>Hungary</name>
+        <capital>Budapest</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="idn">
+        <name>Indonesia</name>
+        <alt>Republic of Indonesia</alt>
+        <capital>Jakarta</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="ind">
+        <name>India</name>
+        <alt>Republic of India</alt>
+        <capital>New Delhi</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="irl">
+        <name>Ireland</name>
+        <alt>Republic of Ireland</alt>
+        <capital>Dublin</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="irn">
+        <name>Iran</name>
+        <alt>Islamic Republic of Iran</alt>
+        <capital>Tehran</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="irq">
+        <name>Iraq</name>
+        <alt>Republic of Iraq</alt>
+        <capital>Baghdad</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="isl">
+        <name>Iceland</name>
+        <alt>Republic of Iceland</alt>
+        <capital>Reykjavik</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="isr">
+        <name>Israel</name>
+        <alt>State of Israel</alt>
+        <capital>Jerusalem</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="ita">
+        <name>Italy</name>
+        <alt>Italian Republic</alt>
+        <capital>Rome</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="jam">
+        <name>Jamaica</name>
+        <capital>Kingston</capital>
+        <region>North America</region>
+    </country>
+    <country iso="jor">
+        <name>Jordan</name>
+        <alt>Hashemite Kingdom of Jordan</alt>
+        <capital>Amman</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="jpn">
+        <name>Japan</name>
+        <capital>Tokyo</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="kaz">
+        <name>Kazakhstan</name>
+        <alt>Republic of Kazakhstan</alt>
+        <capital>Astana</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="ken">
+        <name>Kenya</name>
+        <alt>Republic of Kenya</alt>
+        <capital>Nairobi</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="kgz">
+        <name>Kyrgyzstan</name>
+        <alt>Kyrgyz Republic</alt>
+        <capital>Bishkek</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="khm">
+        <name>Cambodia</name>
+        <alt>Kingdom of Cambodia</alt>
+        <capital>Phnom Penh</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="kir">
+        <name>Kiribati</name>
+        <alt>Republic of Kiribati</alt>
+        <capital>South Tarawa</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="kna">
+        <name>Saint Kitts and Nevis</name>
+        <alt>Federation of Saint Christopher and Nevis</alt>
+        <capital>Basseterre</capital>
+        <region>North America</region>
+    </country>
+    <country iso="kor">
+        <name>South Korea</name>
+        <alt>Republic of Korea</alt>
+        <capital>Seoul</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="kwt">
+        <name>Kuwait</name>
+        <alt>State of Kuwait</alt>
+        <capital>Kuwait City</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="lao">
+        <name>Laos</name>
+        <alt>Lao People's Democratic Republic</alt>
+        <capital>Vientiane</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="lbn">
+        <name>Lebanon</name>
+        <alt>Republic of Lebanon</alt>
+        <capital>Beirut</capital>
+        <region>Asia</region>
+        <other>Lebanese Republic</other>
+    </country>
+    <country iso="lbr">
+        <name>Liberia</name>
+        <alt>Republic of Liberia</alt>
+        <capital>Monrovia</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="lby">
+        <name>Libya</name>
+        <alt>State of Libya</alt>
+        <capital>Tripoli</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="lca">
+        <name>Saint Lucia</name>
+        <capital>Castries</capital>
+        <region>North America</region>
+    </country>
+    <country iso="lie">
+        <name>Liechtenstein</name>
+        <alt>Principality of Liechtenstein</alt>
+        <capital>Vaduz</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="lka">
+        <name>Sri Lanka</name>
+        <alt>Democratic Socialist Republic of Sri Lanka</alt>
+        <capital>Sri Jayawardenepura Kotte</capital>
+        <capital>Colombo</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="lso">
+        <name>Lesotho</name>
+        <alt>Kingdom of Lesotho</alt>
+        <capital>Maseru</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="ltu">
+        <name>Lithuania</name>
+        <alt>Republic of Lithuania</alt>
+        <capital>Vilnius</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="lux">
+        <name>Luxembourg</name>
+        <alt>Grand Duchy of Luxembourg</alt>
+        <capital>Luxembourg City</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="lva">
+        <name>Latvia</name>
+        <alt>Republic of Latvia</alt>
+        <capital>Riga</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="mar">
+        <name>Morocco</name>
+        <alt>Kingdom of Morocco</alt>
+        <capital>Rabat</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="mco">
+        <name>Monaco</name>
+        <alt>Principality of Monaco</alt>
+        <capital>Monaco</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="mda">
+        <name>Moldova</name>
+        <alt>Republic of Moldova</alt>
+        <capital>Chișinău</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="mdg">
+        <name>Madagascar</name>
+        <alt>Republic of Madagascar</alt>
+        <capital>Antananarivo</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="mdv">
+        <name>Maldives</name>
+        <alt>Republic of Maldives</alt>
+        <capital>Malé</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="mex">
+        <name>Mexico</name>
+        <alt>United Mexican States</alt>
+        <capital>Mexico City</capital>
+        <region>North America</region>
+    </country>
+    <country iso="mhl">
+        <pre>The</pre>
+        <name>Marshall Islands</name>
+        <alt>Republic of the Marshall Islands</alt>
+        <capital>Majuro</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="mkd">
+        <name>North Macedonia</name>
+        <alt>Republic of North Macedonia</alt>
+        <capital>Skopje</capital>
+        <region>Europe</region>
+        <other>Macedonia</other>
+    </country>
+    <country iso="mli">
+        <name>Mali</name>
+        <alt>Republic of Mali</alt>
+        <capital>Bamako</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="mlt">
+        <name>Malta</name>
+        <alt>Republic of Malta</alt>
+        <capital>Valletta</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="mmr">
+        <name>Myanmar</name>
+        <alt>Republic of the Union of Myanmar</alt>
+        <capital>Naypyidaw</capital>
+        <region>Asia</region>
+        <other>Burma</other>
+    </country>
+    <country iso="mne">
+        <name>Montenegro</name>
+        <capital>Podgorica</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="mng">
+        <name>Mongolia</name>
+        <capital>Ulaanbaatar</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="moz">
+        <name>Mozambique</name>
+        <alt>Republic of Mozambique</alt>
+        <capital>Maputo</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="mrt">
+        <name>Mauritania</name>
+        <alt>Islamic Republic of Mauritania</alt>
+        <capital>Nouakchott</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="mus">
+        <name>Mauritius</name>
+        <alt>Republic of Mauritius</alt>
+        <capital>Port Louis</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="mwi">
+        <name>Malawi</name>
+        <alt>Republic of Malawi</alt>
+        <capital>Lilongwe</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="mys">
+        <name>Malaysia</name>
+        <capital>Kuala Lumpur</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="nam">
+        <name>Namibia</name>
+        <alt>Republic of Namibia</alt>
+        <capital>Windhoek</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="ner">
+        <name>Niger</name>
+        <alt>Republic of the Niger</alt>
+        <capital>Niamey</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="nga">
+        <name>Nigeria</name>
+        <alt>Federal Republic of Nigeria</alt>
+        <capital>Abuja</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="nic">
+        <name>Nicaragua</name>
+        <alt>Republic of Nicaragua</alt>
+        <capital>Managua</capital>
+        <region>North America</region>
+    </country>
+    <country iso="nld">
+        <pre>The</pre>
+        <name>Netherlands</name>
+        <alt>Kingdom of the Netherlands</alt>
+        <capital>Amsterdam</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="nor">
+        <name>Norway</name>
+        <alt>Kingdom of Norway</alt>
+        <capital>Oslo</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="npl">
+        <name>Nepal</name>
+        <alt>Federal Democratic Republic of Nepal</alt>
+        <capital>Kathmandu</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="nru">
+        <name>Nauru</name>
+        <alt>Republic of Nauru</alt>
+        <capital>Yaren</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="nzl">
+        <name>New Zealand</name>
+        <capital>Wellington</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="omn">
+        <name>Oman</name>
+        <alt>Sultanate of Oman</alt>
+        <capital>Muscat</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="pak">
+        <name>Pakistan</name>
+        <alt>Islamic Republic of Pakistan</alt>
+        <capital>Islamabad</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="pan">
+        <name>Panama</name>
+        <alt>Republic of Panama</alt>
+        <capital>Panama City</capital>
+        <region>North America</region>
+    </country>
+    <country iso="per">
+        <name>Peru</name>
+        <alt>Republic of Peru</alt>
+        <capital>Lima</capital>
+        <region>South America</region>
+    </country>
+    <country iso="phl">
+        <pre>The</pre>
+        <name>Philippines</name>
+        <alt>Republic of the Philippines</alt>
+        <capital>Manila</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="plw">
+        <name>Palau</name>
+        <alt>Republic of Palau</alt>
+        <capital>Ngerulmud</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="png">
+        <name>Papua New Guinea</name>
+        <alt>Independent State of Papua New Guinea</alt>
+        <capital>Port Moresby</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="pol">
+        <name>Poland</name>
+        <alt>Republic of Poland</alt>
+        <capital>Warsaw</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="prk">
+        <name>North Korea</name>
+        <alt>The Democratic People's Republic of Korea</alt>
+        <capital>Pyongyang</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="prt">
+        <name>Portugal</name>
+        <alt>Portuguese Republic</alt>
+        <capital>Lisbon</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="pry">
+        <name>Paraguay</name>
+        <alt>Republic of Paraguay</alt>
+        <capital>Asunción</capital>
+        <region>South America</region>
+    </country>
+    <country iso="pse">
+        <name>Palestine</name>
+        <alt>State of Palestine</alt>
+        <capital>Jerusalem</capital>
+        <capital>Ramallah</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="qat">
+        <name>Qatar</name>
+        <alt>State of Qatar</alt>
+        <capital>Doha</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="rou">
+        <name>Romania</name>
+        <capital>Bucharest</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="rus">
+        <name>Russia</name>
+        <alt>Russian Federation</alt>
+        <capital>Moscow</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="rwa">
+        <name>Rwanda</name>
+        <alt>Republic of Rwanda</alt>
+        <capital>Kigali</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="sau">
+        <name>Saudi Arabia</name>
+        <alt>Kingdom of Saudi Arabia</alt>
+        <capital>Riyadh</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="sdn">
+        <name>Sudan</name>
+        <alt>Republic of the Sudan</alt>
+        <capital>Khartoum</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="sen">
+        <name>Senegal</name>
+        <alt>Republic of Senegal</alt>
+        <capital>Dakar</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="sgp">
+        <name>Singapore</name>
+        <alt>Republic of Singapore</alt>
+        <capital>Singapore</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="slb">
+        <pre>The</pre>
+        <name>Solomon Islands</name>
+        <capital>Honiara</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="sle">
+        <name>Sierra Leone</name>
+        <alt>Republic of Sierra Leone</alt>
+        <capital>Freetown</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="slv">
+        <name>El Salvador</name>
+        <alt>Republic of El Salvador</alt>
+        <capital>San Salvador</capital>
+        <region>North America</region>
+    </country>
+    <country iso="smr">
+        <name>San Marino</name>
+        <alt>Republic of San Marino</alt>
+        <capital>San Marino</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="som">
+        <name>Somalia</name>
+        <alt>Federal Republic of Somalia</alt>
+        <capital>Mogadishu</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="srb">
+        <name>Serbia</name>
+        <alt>Republic of Serbia</alt>
+        <capital>Belgrade</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="ssd">
+        <name>South Sudan</name>
+        <alt>Republic of South Sudan</alt>
+        <capital>Juba</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="stp">
+        <name>São Tomé and Príncipe</name>
+        <alt>Democratic Republic of São Tomé and Príncipe</alt>
+        <capital>São Tomé</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="sur">
+        <name>Suriname</name>
+        <alt>Republic of Suriname</alt>
+        <capital>Paramaribo</capital>
+        <region>South America</region>
+    </country>
+    <country iso="svk">
+        <name>Slovakia</name>
+        <alt>Slovak Republic</alt>
+        <capital>Bratislava</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="svn">
+        <name>Slovenia</name>
+        <alt>Republic of Slovenia</alt>
+        <capital>Ljubljana</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="swe">
+        <name>Sweden</name>
+        <alt>Kingdom of Sweden</alt>
+        <capital>Stockholm</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="swz">
+        <name>Eswatini</name>
+        <alt>Kingdom of Eswatini</alt>
+        <capital>Mbabane</capital>
+        <capital>Lobamba</capital>
+        <region>Africa</region>
+        <other>Swaziland</other>
+        <other>Kingdom of Swaziland</other>
+    </country>
+    <country iso="syc">
+        <name>Seychelles</name>
+        <alt>Republic of Seychelles</alt>
+        <capital>Victoria</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="syr">
+        <name>Syria</name>
+        <alt>Syrian Arab Republic</alt>
+        <capital>Damascus</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="tcd">
+        <name>Chad</name>
+        <alt>Republic of Chad</alt>
+        <capital>N'Djamena</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="tgo">
+        <name>Togo</name>
+        <alt>Togolese Republic</alt>
+        <capital>Lomé</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="tha">
+        <name>Thailand</name>
+        <alt>Kingdom of Thailand</alt>
+        <capital>Bangkok</capital>
+        <region>Asia</region>
+        <other>Siam</other>
+    </country>
+    <country iso="tjk">
+        <name>Tajikistan</name>
+        <alt>Republic of Tajikistan</alt>
+        <capital>Dushanbe</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="tkm">
+        <name>Turkmenistan</name>
+        <capital>Ashgabat</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="tls">
+        <name>Timor-Leste</name>
+        <alt>Democratic Republic of Timor-Leste</alt>
+        <capital>Dili</capital>
+        <region>Asia</region>
+        <other>East Timor</other>
+    </country>
+    <country iso="ton">
+        <name>Tonga</name>
+        <alt>Kingdom of Tonga</alt>
+        <capital>Nukuʻalofa</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="tto">
+        <name>Trinidad and Tobago</name>
+        <alt>Republic of Trinidad and Tobago</alt>
+        <capital>Port of Spain</capital>
+        <region>North America</region>
+    </country>
+    <country iso="tun">
+        <name>Tunisia</name>
+        <alt>Republic of Tunisia</alt>
+        <capital>Tunis</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="tur">
+        <name>Türkiye</name>
+        <alt>Republic of Türkiye</alt>
+        <capital>Ankara</capital>
+        <region>Asia</region>
+        <other>Turkey</other>
+    </country>
+    <country iso="tuv">
+        <name>Tuvalu</name>
+        <capital>Funafuti</capital>
+        <region>Oceania</region>
+        <other>Ellice Islands</other>
+    </country>
+    <country iso="tza">
+        <name>Tanzania</name>
+        <alt>United Republic of Tanzania</alt>
+        <capital>Dodoma</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="uga">
+        <name>Uganda</name>
+        <alt>Republic of Uganda</alt>
+        <capital>Kampala</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="ukr">
+        <name>Ukraine</name>
+        <capital>Kyiv</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="ury">
+        <name>Uruguay</name>
+        <alt>Oriental Republic of Uruguay</alt>
+        <capital>Montevideo</capital>
+        <region>South America</region>
+        <other>Eastern Republic of Uruguay</other>
+    </country>
+    <country iso="usa">
+        <pre>The</pre>
+        <name>United States</name>
+        <alt>United States of America</alt>
+        <capital>Washington, D.C.</capital>
+        <region>North America</region>
+        <other>America</other>
+    </country>
+    <country iso="uzb">
+        <name>Uzbekistan</name>
+        <alt>Republic of Uzbekistan</alt>
+        <capital>Tashkent</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="vat">
+        <name>Vatican City</name>
+        <alt>Vatican City State</alt>
+        <capital>Vatican City</capital>
+        <region>Europe</region>
+    </country>
+    <country iso="vct">
+        <name>Saint Vincent and the Grenadines</name>
+        <capital>Kingstown</capital>
+        <region>North America</region>
+    </country>
+    <country iso="ven">
+        <name>Venezuela</name>
+        <alt>Bolivarian Republic of Venezuela</alt>
+        <capital>Caracas</capital>
+        <region>South America</region>
+    </country>
+    <country iso="vnm">
+        <name>Vietnam</name>
+        <alt>Socialist Republic of Vietnam</alt>
+        <capital>Hanoi</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="vut">
+        <name>Vanuatu</name>
+        <alt>Republic of Vanuatu</alt>
+        <capital>Port Vila</capital>
+        <region>Oceania</region>
+    </country>
+    <country iso="wsm">
+        <name>Samoa</name>
+        <alt>Independent State of Samoa</alt>
+        <capital>Apia</capital>
+        <region>Oceania</region>
+        <other>Western Samoa</other>
+    </country>
+    <country iso="yem">
+        <name>Yemen</name>
+        <alt>Republic of Yemen</alt>
+        <capital>Sanaa</capital>
+        <region>Asia</region>
+    </country>
+    <country iso="zaf">
+        <name>South Africa</name>
+        <alt>Republic of South Africa</alt>
+        <capital>Pretoria</capital>
+        <capital>Cape Town</capital>
+        <capital>Bloemfontein</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="zmb">
+        <name>Zambia</name>
+        <alt>Republic of Zambia</alt>
+        <capital>Lusaka</capital>
+        <region>Africa</region>
+    </country>
+    <country iso="zwe">
+        <name>Zimbabwe</name>
+        <alt>Republic of Zimbabwe</alt>
+        <capital>Harare</capital>
+        <region>Africa</region>
+    </country>
+</countries>
