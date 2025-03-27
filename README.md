@@ -34,28 +34,28 @@ This project is a Qt-based Master-Detail application that displays a flag corres
 ```
 masterDetail_Flags/
 ├── geo_quizz
-  ├── src/
-  │   ├── main.cpp
-  │   ├── country.cpp
-  │   ├── countryfactory.cpp
-  ├── headers/
-  │   ├── country.h
-  │   ├── countryfactory.h
-  ├── qml/
-  │   ├── Drapeau.qml
-  │   ├── main.qml
-  │   ├── Pays.qml
-  ├── assets/
-  │   ├── flags/
-  │   ├── icons/
-  │   ├── COPYING.CC-BY-SA
-  │   ├── data.json
-  │   ├── data.xml
-  │   ├── data_en-GB.json
-  │   ├── data_en-GB.xml
-  │   ├── map.svg
-  │   ├── map.svg.txt
-  ├── geo_quizz.pro
+| ├── src/
+│     ├── main.cpp
+│     ├── country.cpp
+│     ├── countryfactory.cpp
+| ├── headers/
+│     ├── country.h
+│     ├── countryfactory.h
+| ├── qml/
+│     ├── Drapeau.qml
+│     ├── main.qml
+│     ├── Pays.qml
+| ├── assets/
+│     ├── flags/
+│     ├── icons/
+│     ├── COPYING.CC-BY-SA
+│     ├── data.json
+│     ├── data.xml
+│     ├── data_en-GB.json
+│     ├── data_en-GB.xml
+│     ├── map.svg
+│     ├── map.svg.txt
+| ├── geo_quizz.pro
 ├── README.md
 ```
 
@@ -77,18 +77,13 @@ masterDetail_Flags/
 
 ---
 
-
-&nbsp; ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-&nbsp; ![Dart](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=dart&logoColor=white) 
-&nbsp; ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-&nbsp; ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
+&nbsp; ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+&nbsp; ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+&nbsp; ![QML](https://img.shields.io/badge/QML-FFA000?style=for-the-badge&logo=qt&logoColor=white)
+&nbsp; ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
 
 </div>
 
-
-
-<div align = center>
